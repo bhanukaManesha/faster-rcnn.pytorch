@@ -199,3 +199,4 @@ caffe2.egg-info
 .watchmanconfig
 
 images
+.python-version

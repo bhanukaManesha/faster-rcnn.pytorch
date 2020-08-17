@@ -1,0 +1,10 @@
+cython
+cffi
+opencv-python
+scipy
+easydict
+matplotlib
+pyyaml
+tqdm
+h5py
+torchvision==0.2.1
